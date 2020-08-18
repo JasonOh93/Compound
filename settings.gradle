@@ -1,0 +1,2 @@
+rootProject.name='DAY0518Compound_Ex'
+include ':app'
